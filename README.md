@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Xmen </h1>
+<h1 align="center"> Projeto X Men </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, feito juntamente com a equipe do DevQuest <br/>
@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, feito juntamente com a equipe do DevQuest <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Sharelinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto X Men" src=".github/preview.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
